@@ -1,2 +1,2 @@
 # IgrejaRenovada
-Repositorio Android 
+Criando uma aplicação para Igreja Renovada.
