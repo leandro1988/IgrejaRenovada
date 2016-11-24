@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/leandro/Documentos/Treinamento Android/IgrejaRenovada/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/leandro/Documentos/Treinamento Android/IgrejaRenovada/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_7e91997be093c465e6f8f88fb7b02ec4daad0c5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leandro/Documentos/Treinamento Android/IgrejaRenovada/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/home/leandro/Documentos/Treinamento Android/IgrejaRenovada/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_494b77d8fe94cc355d3d8bb36fc560ce948b5076/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leandro/Documentos/Treinamento Android/IgrejaRenovada/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/leandro/Documentos/Treinamento Android/IgrejaRenovada/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_9579d7be79cd891f0420881d5517ab5507932a21/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leandro/Documentos/Treinamento Android/IgrejaRenovada/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/leandro/Documentos/Treinamento Android/IgrejaRenovada/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_00eac7b41722630300214cfc5c153bfc8c27b6e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leandro/Documentos/Treinamento Android/IgrejaRenovada/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09921a33a25c8cba2ae8ed5215434c005b724da7">
+        <dex dex="/home/leandro/Documentos/Treinamento Android/IgrejaRenovada/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c5ee229b039a8fd2b482c0a2bd90c03186e25db3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leandro/Documentos/Treinamento Android/IgrejaRenovada/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/leandro/Documentos/Treinamento Android/IgrejaRenovada/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_0f7c4b451abfaf2928f85a7b6a95a7dd18226afe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leandro/Documentos/Treinamento Android/IgrejaRenovada/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/leandro/Documentos/Treinamento Android/IgrejaRenovada/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_9e57480ba46e6c1077b43bd6e46d0d83da9085b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leandro/Documentos/Treinamento Android/IgrejaRenovada/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/leandro/Documentos/Treinamento Android/IgrejaRenovada/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_fb0e2a065cf1a5031e34eea43d8145f15b2cd3ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leandro/Documentos/Treinamento Android/IgrejaRenovada/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/leandro/Documentos/Treinamento Android/IgrejaRenovada/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_30777f6182d366f08ff8c1b7c02d354a391d46a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leandro/Documentos/Treinamento Android/IgrejaRenovada/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/leandro/Documentos/Treinamento Android/IgrejaRenovada/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_e190286a940aac2caa9aab61d10cd391a98eae56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leandro/Documentos/Treinamento Android/IgrejaRenovada/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/leandro/Documentos/Treinamento Android/IgrejaRenovada/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_29d66085cc89b6622602040f24b8bfc16889ebfa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leandro/Documentos/Treinamento Android/IgrejaRenovada/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/leandro/Documentos/Treinamento Android/IgrejaRenovada/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_ff095cb1834050f606cbfb250d70f8abd7efc5c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leandro/Documentos/Treinamento Android/IgrejaRenovada/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cc3e7ed766ae96c6a539ec75e2ded49e1494af86">
+        <dex dex="/home/leandro/Documentos/Treinamento Android/IgrejaRenovada/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c8a065b0e4b97e9c9084e18f73fab35598b2ebf9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leandro/Documentos/Treinamento Android/IgrejaRenovada/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/leandro/Documentos/Treinamento Android/IgrejaRenovada/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_6392dd11ba77cafd8bc9293ac4d180a3ef47c47f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leandro/Documentos/Treinamento Android/IgrejaRenovada/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/leandro/Documentos/Treinamento Android/IgrejaRenovada/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_a3ce4e1c03e69eae0a22609a3bdb80f113862dbe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leandro/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/home/leandro/Documentos/Treinamento Android/IgrejaRenovada/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_4c2383bfdca37c6ff4d4fad2f62d69390e2befb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leandro/Documentos/Treinamento Android/IgrejaRenovada/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/home/leandro/Documentos/Treinamento Android/IgrejaRenovada/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_1c18d7902bfd4c976b0ed6d76093b121969a4a7e/classes.dex" />
+    </item>
+
+</items>
